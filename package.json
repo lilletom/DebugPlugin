@@ -1,0 +1,26 @@
+{
+  "name": "debugtool-webpack-plugin",
+  "version": "1.0.0",
+  "description": "a simple plugin for webpack and vconsole",
+  "main": "DebugPlugin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lilletom",
+  "license": "ISC",
+  "dependencies": {
+    "vconsole": "^3.3.4",
+    "webpack": "^4.41.4"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antwang/DebugPlugin.git"
+  },
+  "keywords": [
+    "webpack",
+    "vconsole",
+    "js"
+  ],
+  "license": "ISC"
+}
